@@ -64,4 +64,4 @@
 
 
 <br>
-<footer align='center'> Make sure to star my repos ;)></a> </footer>
+<footer align='center'> Make sure to star my repos no u ;)></a> </footer>
